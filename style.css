@@ -1,0 +1,31 @@
+﻿.profile {
+    width: 275px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#Top {
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 45px;
+    font-family:Algerian;
+}
+
+html {
+    background-color: maroon;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    font-size:25px;
+}
